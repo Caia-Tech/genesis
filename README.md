@@ -143,4 +143,4 @@ MIT - See [LICENSE](LICENSE)
 
 ---
 
-**Note**: This is research software exploring unconventional AI architectures. It does not currently function as a practical AI system. See [OBJECTIVE_FINDINGS.md](OBJECTIVE_FINDINGS.md) for detailed analysis of capabilities and limitations.
+**Note**: This is research software exploring unconventional AI architectures. It does not currently function as a practical AI system. See [OBJECTIVE_FINDINGS.md](OBJECTIVE_FINDINGS.md) for detailed analysis of capabilities and limitations, and [TEST_FINDINGS.md](TEST_FINDINGS.md) for comprehensive test results.
