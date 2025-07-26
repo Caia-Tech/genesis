@@ -79,6 +79,8 @@ genesis/
 - **Learning**: Static after initial dataset loading
 - **Emergence**: No emergent behaviors at current scales
 
+Note: This is at current scales - local CPU, extremely small dataset, none of the proposed implementations like programmatic alignment, Kubernetes scaling, gate exploration, etc.
+
 ## 🔬 Research Questions
 
 This project explores:
