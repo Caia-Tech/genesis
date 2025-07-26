@@ -527,6 +527,10 @@ func main() {
 	fmt.Println("4. Training mode (use 'go run . train')")
 	fmt.Println("5. Simple test")
 	fmt.Println("6. Response generation test")
+	fmt.Println("7. Orchestration demo")
+	fmt.Println("8. Parallel orchestration demo")
+	fmt.Println("9. Scaling behavior demo")
+	fmt.Println("10. Test actual responses")
 	fmt.Print("\nSelection (default=3): ")
 	
 	var selection string
@@ -543,6 +547,14 @@ func main() {
 		TestSimple()
 	case "6":
 		TestResponses()
+	case "7":
+		DemoOrchestration()
+	case "8":
+		DemoParallelOrchestration()
+	case "9":
+		ShowScalingBehavior()
+	case "10":
+		TestActualResponses()
 	default:
 		RunAutoDemo()
 	}
