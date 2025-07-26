@@ -1,0 +1,36 @@
+{
+  "model": {
+    "type": "liquid",
+    "embedding_dim": 64,
+    "hidden_size": 128,
+    "num_layers": 2,
+    "max_concepts": 100
+  },
+  "training": {
+    "DatasetPaths": [
+      "datasets/conversational_corpus.txt",
+      "datasets/high_quality_corpus.txt",
+      "datasets/dialogue_patterns.txt"
+    ],
+    "MaxVocabSize": 500,
+    "EmbeddingDim": 64,
+    "MinWordFreq": 5,
+    "MaxDocuments": 50
+  },
+  "resources": {
+    "max_goroutines": 100,
+    "max_memory_mb": 256,
+    "max_neurons": 5000,
+    "channel_buffer_size": 20
+  },
+  "datasets": {
+    "paths": [
+      "datasets/conversational_corpus.txt",
+      "datasets/high_quality_corpus.txt",
+      "datasets/dialogue_patterns.txt"
+    ],
+    "max_documents": 50,
+    "min_word_frequency": 5,
+    "test_split_ratio": 0.2
+  }
+}
