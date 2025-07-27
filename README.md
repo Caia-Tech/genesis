@@ -1,4 +1,4 @@
-⚠️ hitting fundamental walls, preserved for evidence and research - AFDP and Git forensics remain truly innovative still continuing in other directions
+⚠️ hitting fundamental walls, preserved for evidence and research - AFDP and Git forensics remain truly innovative. Still continuing in other directions.
 
 # Genesis 
 
