@@ -1,4 +1,6 @@
-# Genesis AI 🧠
+⚠️ hitting fundamental walls, preserved for evidence and research - AFDP and Git forensics remain truly innovative still continuing in other directions
+
+# Genesis 
 
 **An experimental parallel neural architecture exploring liquid state computing and transparent AI systems in Go.**
 
